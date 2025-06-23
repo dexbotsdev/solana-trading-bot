@@ -1,6 +1,7 @@
 # Solana Trading SDK
 
-A comprehensive Rust SDK for trading on the Solana blockchain, with support for multiple DEXs and advanced transaction submission strategies.
+## Overview
+A comprehensive Solana trading bot using rust language on  **Pumpfun**,  **PumpSwap**,  **RaydiumLaunchpad**,  **Boopfun**
 
 ## Features
 
@@ -9,15 +10,6 @@ A comprehensive Rust SDK for trading on the Solana blockchain, with support for 
 - **Token Creation**: Create and deploy new tokens with metadata on IPFS
 - **Priority Fees & MEV Protection**: Built-in support for priority fees and MEV protection through Jito bundles
 - **Comprehensive Trading**: Buy, sell, and create tokens with customizable slippage and fees
-
-## Supported DEXs
-
-- **Pumpfun**
-- **PumpSwap**
-- **RaydiumLaunchpad**
-- **Boopfun**
-- **Moonshot**: Comming soon
-- **Believe**: Comming soon
 
 ## Supported SWQoS Providers
 
