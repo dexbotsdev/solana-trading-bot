@@ -1,4 +1,4 @@
-# Solana Trading SDK
+# Solana Trading Bot
 
 ## Overview
 A comprehensive Solana trading bot using rust language on  **Pumpfun**,  **PumpSwap**,  **RaydiumLaunchpad**,  **Boopfun**
